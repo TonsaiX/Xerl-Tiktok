@@ -1,0 +1,8 @@
+# Discord library (Pycord)
+py-cord==2.5.0
+
+# TikTok LIVE library (ใช้เวอร์ชันที่มีจริงใน PyPI)
+TikTokLive==6.6.5
+
+# Optional but recommended
+python-dotenv==1.0.1
